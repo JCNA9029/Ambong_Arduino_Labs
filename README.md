@@ -23,7 +23,5 @@ This repository contains our submission for the Laboratory Activities in COSC 11
 3. Tinkercad Diagram and Simulation (tinkercard url)
 4. Video simulating the breadboard and its corresponding circuit diagram on Tinkercad
 
-### AI
-1. Prompts used to transact with your selected Generative AI
-2. Model used to generate the content
-3. Transaction ID or the link of the conversation
+### Note
+Every Activity folder has a README.md that explains the code of the activity
